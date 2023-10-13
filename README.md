@@ -1,1 +1,1 @@
-# gerizekali.github.io
+# basic portfolio site
